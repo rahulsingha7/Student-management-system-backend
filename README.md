@@ -71,18 +71,6 @@ http://localhost:5000
 | DELETE | `/students/:id` | Delete student                     |
 
 ---
-
-## 📂 Project Structure
-
-backend/
-│── server.js
-│── models/
-│── routes/
-│── uploads/          # Multer image folder
-│── package.json
-│── .env
-
----
 ## 📸 Image Upload Handling
 
 This project uses Multer to handle image uploads.
@@ -114,6 +102,7 @@ From package.json:
 
 
 ---
+
 
 
 
