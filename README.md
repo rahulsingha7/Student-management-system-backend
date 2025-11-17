@@ -1,2 +1,1 @@
-﻿# Student-management-system-backend
 
