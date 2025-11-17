@@ -34,7 +34,7 @@ It provides CRUD operations for managing student records and supports image uplo
 ```bash
 git clone <repo-url>
 cd backend
-
+```
 ### 2️⃣ Install Dependencies
 
 ```bash
@@ -114,6 +114,7 @@ From package.json:
 
 
 ---
+
 
 
 
