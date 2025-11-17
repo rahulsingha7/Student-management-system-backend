@@ -40,6 +40,7 @@ cd backend
 ```bash
 npm install
 
+```
 ---
 
 ## ⚙️ Configure Environment Variables
@@ -113,6 +114,7 @@ From package.json:
 
 
 ---
+
 
 
 
